@@ -1,5 +1,6 @@
 package org.example.lesson1
 
 fun main(){
-    print("Hello flutter")
+    var namberOrder: Int = 23
+    val textBye: String = "Благодарю за заказ! Надеюсь увидеть вас снова"
 }
